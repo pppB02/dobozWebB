@@ -1,0 +1,82 @@
+.Xray{
+    border: 1px solid purple;
+}
+
+.item {
+    border: 1px solid purple;
+    margin: 10px 20px;
+}
+
+header{
+    width: 98%;
+    height: 100px;
+    border: 1px solid black;
+    border-left: 10px solid black;
+    border-right: 10px solid black;
+    border-radius: 10px;
+    margin-bottom: 20px;
+
+}
+
+#sor{
+    display: flex;
+    justify-content: space-around;
+    height: 200px;
+    width: 100%;
+    border: 1px solid black;
+}
+
+#dobozBal{
+    margin: 10px;
+    margin-left: 90px;
+    border: 1px solid red;   
+}
+
+#dobozJobb{
+    margin: 10px;
+    margin-right: 90px;
+    border: 1px solid red;   
+}
+
+#fullabel{
+    margin-top: 20px;
+    width: 100%;
+    height: 80px;
+    border: 1px solid;
+    border-bottom-left-radius: 10px;
+}
+
+#fullPirosBorder{
+    margin: 1px 300px;
+    border: 1px solid #FF0000;
+
+}
+
+#kisBal{
+    width: 350px;
+    height: 110px;
+    border: 1px solid #000;
+    border-top-right-radius: 10px;
+}
+
+#kisBalPiros{
+    width: 90%;
+    height: 90%;
+    margin: auto;
+    margin-top: 5px;
+    border: 1px solid #FF0000;
+}
+
+#kisJobb{
+    float: right;
+    width: 450px;
+    height: 200px;
+    border: 1px solid #000;
+}
+
+footer {
+    clear: both;
+    position: relative;
+    height: 200px;
+    margin-top: -200px;
+}
