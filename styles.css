@@ -74,9 +74,9 @@ header{
     border: 1px solid #000;
 }
 
-footer {
-    clear: both;
-    position: relative;
-    height: 200px;
-    margin-top: -200px;
+footer{
+    border: 1px solid #000;
+    margin-top: 50px;
+    margin-right: 20px;
+    float: right;
 }
